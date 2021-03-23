@@ -15,7 +15,7 @@ The project contains the following features:
 - Dark mode
 
 ### Resources used:
-I do not own any of the following resources and it has been used for educationary purpos only.
+I do not own any of the following resources and it has been used for educationary purposes only.
 - Pngtree png image
 - FontAwesome hamberger menu
 
