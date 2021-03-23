@@ -19,7 +19,7 @@ I do not own any of the following resources and it has been used for educationar
 -Pngtree png image
 -FontAwesome hamberger menu
 
-#### MIT License
+### MIT License
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
