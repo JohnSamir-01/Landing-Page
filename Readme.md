@@ -16,8 +16,8 @@ The project contains the following features:
 
 ### Resources used:
 I do not own any of the following resources and it has been used for educationary purpos only.
--Pngtree png image
--FontAwesome hamberger menu
+- Pngtree png image
+- FontAwesome hamberger menu
 
 ### MIT License
 
