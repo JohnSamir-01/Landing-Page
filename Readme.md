@@ -6,7 +6,7 @@ The following project was created to test out some basic understandings of java-
 ### How to use:
 Nothing really needs to be installed prior to view the page design other than a browser (assuming you already have it installed).
 
-###Project Content:
+### Project Content:
 The project contains the following features:
 - Fully responsive design
 - Dynamic NavBar
@@ -20,7 +20,6 @@ I do not own any of the following resources and it has been used for educationar
 - FontAwesome hamberger menu
 
 ### MIT License
-
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
